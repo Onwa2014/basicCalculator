@@ -1,0 +1,21 @@
+.btn{
+    font-weight: 900;
+    font-size: 1em;
+    background-color: red;
+    width:25%;
+    height: 3em;
+    margin: auto;
+    /* border-radius: 50%; */
+}
+body{
+  background-color: green;
+  margin-left: 15em;
+}
+.buttons {
+  /* margin: auto; */
+
+
+}
+h1 {
+  margin: auto;
+}
